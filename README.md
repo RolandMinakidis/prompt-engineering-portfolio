@@ -17,15 +17,3 @@ I hold **9+ Google AI Certifications**, proving my foundational understanding of
 
 
 ---
-
-## 📂 Portfolio Roadmap & Work
-*🔄 Updating daily over a 30-day sprint.*
-
-### 🔹 Week 1: Core Frameworks & Methodologies
-* [x] GitHub Portfolio Environment Setup
-* [ ] The RTCE Prompting Framework Guide *(In Progress)*
-* [ ] Production-Ready Master Template
-
-### 🔹 Week 2: Functional Automation Templates
-* [ ] Unstructured Data to Clean JSON Transformer
-* [ ] Multi-Tier Content Marketing Engine
