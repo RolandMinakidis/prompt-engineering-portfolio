@@ -17,3 +17,9 @@ I hold **9+ Google AI Certifications**, proving my foundational understanding of
 
 
 ---
+### 🔹 Week 1: Core Frameworks & Methodologies
+* [x] GitHub Portfolio Environment Setup
+* [x] The RTCE Prompting Framework Guide
+* [x] Baseline Comparison Test (Naive vs. RTCE)
+* [x] Production-Ready Master Template
+* [x] Framework Audit & Refinement (Quality Checklist)
