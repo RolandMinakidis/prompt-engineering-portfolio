@@ -14,7 +14,7 @@ While many people treat AI like a simple chatbot, I approach it structurally. I 
 I hold **9+ Google AI Certifications**, proving my foundational understanding of machine learning principles, generative AI, and model behavior.
 * **Google AI Professional Certificate**
 * **Google AI Essentials**
-* *[Type 1 or 2 other specific Google AI certs here]*
+
 
 ---
 
