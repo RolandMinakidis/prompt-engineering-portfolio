@@ -23,3 +23,8 @@ I hold **9+ Google AI Certifications**, proving my foundational understanding of
 * [x] Baseline Comparison Test (Naive vs. RTCE)
 * [x] Production-Ready Master Template
 * [x] Framework Audit & Refinement (Quality Checklist)
+
+🔹 Week 2: Functional Automation Templates
+* [x] Unstructured Data to Clean JSON Transformer
+* [x] Edge Case & Validation Tester for JSON
+* [x] Multi-Tier Content Marketing Engine
